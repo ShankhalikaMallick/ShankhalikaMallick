@@ -2,7 +2,7 @@
 
 ## I'm **Shankhalika** ✨  
 
-### ⚙️ Crafting **testbenches** by day, 🧩 debugging **reality** by night, and ☕ running entirely on **coffee** and **curiosity**.
+### ⚙️ Crafting **testbenches** by day, 🧩 debugging **reality** by night, and ☕ running entirely on **coffee**.
 
 I'm currently juggling college lectures, simulation logs, and the eternal quest to make *testbenches behave*.  
 When I’m not deep-diving into waveforms, you’ll probably find me exploring new tech, building side projects, or debugging life itself. 😅

@@ -1,45 +1,25 @@
-# Hi there 👋
+# 👋 Hey there
+## I'm Shankhalika
+### ⚙️ Crafting testbenches by day, 🧩 debugging reality by night, and ☕ running entirely on coffee and curiosity.
 
-<!--
-**ShankhalikaMallick/ShankhalikaMallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hey there, I'm Shankhalika !
-
-### 🎓 A **Design Verification Enthusiast** by day, 🧠 a **curious learner** by night, and ☕ **powered by caffeine** 24/7!
-
-I’m currently juggling college lectures, simulation logs, and the eternal quest to make *testbenches behave*.  
+I'm currently juggling college lectures, simulation logs, and the eternal quest to make *testbenches behave*.  
 When I’m not deep-diving into waveforms, you’ll probably find me exploring new tech, building side projects, or debugging life itself. 😅
 
-### 🌱 What I'm up to
-- 📚 Diving deeper into SystemVerilog and UVM  
-- ⚙️ Working on small verification projects  
-- 💡 Learning every day and documenting my journey
 
----
+### 🚀 What I'm Up To
+- 🧩 Exploring the art (and science) of **Design Verification**
+- 🔍 Learning **SystemVerilog**, **UVM**, and other verification magic
+- 🧠 Expanding my skills one bug fix at a time
+- ⚡ Trying to make my college projects *actually pass synthesis* 😜
 
 ### 🧠 A bit about me
-- 🎯 Passionate about chip design and verification  
-- 🧩 Love solving logic puzzles & debugging  
-- 🗣️ Always open to collaboration and learning opportunities  
+- 🎯 Passionate about chip design, logic, and all things hardware  
+- 💬 Love connecting with people who geek out over circuits and code  
+- 🧃 Thrives on good music, clean waveforms, and late-night coding sessions 
 
----
+### 📫 Let's connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/shankhalika-m-248b3819a/)   
+- 📧 [Email Me](shankhalikamallick@gmail.com)
 
-### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 📧 [Email Me](mailto:yourname@email.com)
-
----
 
 ⭐️ *"Always in verification mode — both in code and in life."*

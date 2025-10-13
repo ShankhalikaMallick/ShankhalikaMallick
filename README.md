@@ -5,6 +5,9 @@
 I'm currently juggling college lectures, simulation logs, and the eternal quest to make *testbenches behave*.  
 When I’m not deep-diving into waveforms, you’ll probably find me exploring new tech, building side projects, or debugging life itself. 😅
 
+### 📫 Let's connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/shankhalika-m-248b3819a/)   
+- 📧 [Email Me](shankhalikamallick@gmail.com)
 
 ### 🚀 What I'm Up To
 - 🧩 Exploring the art (and science) of **Design Verification**
@@ -21,21 +24,27 @@ When I’m not deep-diving into waveforms, you’ll probably find me exploring n
 
 #### 💻 Programming & Scripting
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED1C24?style=for-the-badge&logo=verilog&logoColor=white)
 
 #### ⚙️ Hardware Design & Verification Tools
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-EE4C2C?style=for-the-badge&logo=verilog&logoColor=white)
 ![UVM](https://img.shields.io/badge/UVM-007ACC?style=for-the-badge&logo=verilog&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-0099CC?style=for-the-badge&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
+### 🧩 Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📫 Let's connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/shankhalika-m-248b3819a/)   
-- 📧 [Email Me](shankhalikamallick@gmail.com)
+## 📊 GitHub Summary
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallicke&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=tokyonight)
 
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShankhalikaMallick&theme=tokyo-night)
 
+### Fun Fact
 ⭐️ *"Always in verification mode — both in code and in life."*

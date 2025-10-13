@@ -6,8 +6,8 @@ I'm currently juggling college lectures, simulation logs, and the eternal quest 
 When I’m not deep-diving into waveforms, you’ll probably find me exploring new tech, building side projects, or debugging life itself. 😅
 
 ### 📫 Let's connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/shankhalika-m-248b3819a/)   
-- 📧 [Email Me](shankhalikamallick@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/shankhalika-m-248b3819a/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shankhalikamallick@gmail.com)
 
 ### 🚀 What I'm Up To
 - 🧩 Exploring the art (and science) of **Design Verification**

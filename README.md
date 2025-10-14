@@ -42,8 +42,11 @@ When I’m not deep-diving into waveforms, you’ll probably find me exploring n
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Summary
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight)## 💻 Languages I Use Most
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=tokyonight)
+
+  
 
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShankhalikaMallick&theme=tokyo-night)

@@ -43,6 +43,7 @@ When I’m not deep-diving into waveforms, you’ll probably find me exploring n
 
 ## 📊 GitHub Summary
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=vision-friendly-dark)]   
 
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShankhalikaMallick&theme=tokyo-night)

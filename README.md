@@ -45,6 +45,9 @@ When I’m not deep-diving into waveforms, you’ll probably find me exploring n
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)   
+
   
 
 ## 📈 Activity Graph

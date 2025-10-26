@@ -44,11 +44,9 @@ When I’m not deep-diving into waveforms, you’ll probably find me exploring n
 ## 📊 GitHub Summary
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMAllick&langs_count=20&layout=compact&theme=nord)
-
-
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShankhalikaMallick&theme=tokyo-night)
+<p>
+  <img src="https://streak-stats.demolab.com?user=ShankhalikaMallick&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### Fun Fact
 ⭐️ *"Always in verification mode — both in code and in life."*

@@ -42,8 +42,8 @@ When I’m not deep-diving into waveforms, you’ll probably find me exploring n
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Summary
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMAllick&langs_count=20&layout=compact&theme=nord)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=nord)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&langs_count=20&layout=compact&theme=nord)
 
 ### Fun Fact
 ⭐️ *"Always in verification mode — both in code and in life."*

@@ -74,14 +74,6 @@ I’m a VLSI enthusiast currently navigating the intricate world of M.Tech simul
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShankhalikaMallick&theme=react-dark&bg_color=0d1117&hide_border=true&line=ff6fa5&point=ffffff&area=true"/>
-</p>
-
----
-
 # 🧩 Tools & Platforms
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)

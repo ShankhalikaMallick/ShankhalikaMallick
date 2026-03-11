@@ -1,15 +1,9 @@
-# 👋 Hey there!
+# Hey there!  I'm Shankhalika Mallick   
 
-## I'm **Shankhalika Mallick** ✨  
-
-I'm currently juggling college lectures, simulation logs, and the eternal quest to make *testbenches behave*.  
-When I’m not deep-diving into waveforms, you’ll probably find me exploring new tech, building side projects, or debugging life itself. 😅
+I’m a VLSI enthusiast currently navigating the intricate world of M.Tech simulations and RTL design verification. While my professional focus is on making sure bits flip correctly and CMOS op-amps stay stable, my creative side thrives on 'vibe coding' and the precision of mandala art. I’m essentially a closed-loop system: I input complex problems and caffeine, and output optimized hardware logic and the occasional digital fractal.
 
 ---
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=FF6FA5&center=true&vCenter=true&width=700&lines=Hi+I'm+Shankhalika+Mallick;Digital+Design+%7C+Verification+Engineer;Crafting+Testbenches+%26+Debugging+Reality;Powered+by+Coffee+%E2%98%95" />
-</p>
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=always+@(posedge+coffee);Current+Status:+Metastable;Building+Digital+Realities+.+.+.;Debugging+Life+itself+.+.+.;Vibe+Coding+in+Progress+.+.+.)
 
 ---
 

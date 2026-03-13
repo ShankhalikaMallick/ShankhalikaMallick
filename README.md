@@ -70,6 +70,8 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=tokyonight"/>
 
+<img src="https://komarev.com/ghpvc/?username=ShankhalikaMallick&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---

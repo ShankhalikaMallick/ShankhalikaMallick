@@ -1,9 +1,8 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=I75C8E&width=500&lines=Hey+there!+I'm+Shankhalika+Mallick)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" />  Hi! I am Shankhalika 
 
-### I’m a VLSI enthusiast currently navigating the world of M.Tech simulations and RTL design verification. While my professional focus is on making sure bits flip correctly and CMOS op-amps stay stable, my creative side thrives on 'vibe coding' and the precision of mandala art. 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F75C7E&width=1000&lines=☕+Powered+by+Cold+Coffee+and+Pure+Optimism)
 
----
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=always+@(posedge+coffee);Current+Status:+Metastable;Building+Digital+Realities+.+.+.;Debugging+Life+itself+.+.+.;Vibe+Coding+in+Progress+.+.+.)
+I am a M.Tech student running simulations in Verilog and Cadence. I spend my days navigating the delicate balance between RTL Design and "Will this simulation actually pass?" somehow, it usually does. When I'm not deep in Verilog or RISC-V architectures, I’m translating my aesthetic side into code using HTML, CSS. My code works on the first try about 0% of the time, but my coffee is always 100% cold.
 
 ---
 

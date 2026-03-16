@@ -37,7 +37,6 @@ I am a M.Tech student running simulations in Verilog and Cadence. I spend my day
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-orange?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HDL-red?style=for-the-badge)
 
@@ -46,9 +45,7 @@ I am a M.Tech student running simulations in Verilog and Cadence. I spend my day
 ## ⚙️ Hardware Design & Verification Tools
 
 ![UVM](https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge)
-![ModelSim](https://img.shields.io/badge/ModelSim-Simulator-0099CC?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FPGA%20Tool-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white)
-![Quartus](https://img.shields.io/badge/Intel%20Quartus-FPGA%20Tool-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
@@ -68,8 +65,6 @@ I am a M.Tech student running simulations in Verilog and Cadence. I spend my day
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankhalikaMallick&layout=compact&theme=tokyonight"/>
-
-<img src="https://komarev.com/ghpvc/?username=ShankhalikaMallick&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 

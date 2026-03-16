@@ -60,7 +60,7 @@ I am a M.Tech student running simulations in Verilog and Cadence. I spend my day
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShankhalikaMallick&show_icons=true&theme=tokyonight"/>
 

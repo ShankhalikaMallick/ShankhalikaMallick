@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" />  Hi! I am Shankhalika 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" />  Hi! I am Shankhalika. Nice to meet you!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F75C7E&width=1000&lines=☕+Powered+by+Cold+Coffee+and+Pure+Optimism)
 

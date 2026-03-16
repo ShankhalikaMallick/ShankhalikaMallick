@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> Hey there!  I'm Shankhalika Mallick  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=I75C8E&width=500&lines=Hey+there!+I'm+Shankhalika+Mallick)
 
 ### I’m a VLSI enthusiast currently navigating the world of M.Tech simulations and RTL design verification. While my professional focus is on making sure bits flip correctly and CMOS op-amps stay stable, my creative side thrives on 'vibe coding' and the precision of mandala art. 
 

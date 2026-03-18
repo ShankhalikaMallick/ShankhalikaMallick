@@ -46,6 +46,7 @@ I am a M.Tech student running simulations in Verilog and Cadence. I spend my day
 
 ![UVM](https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FPGA%20Tool-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-Hardware%20Design-blue?style=for-the-badge)
 
 ---
 
